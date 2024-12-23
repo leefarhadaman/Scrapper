@@ -47,11 +47,11 @@ python Scrapper.py
 ```
 -- **Enter the website URL when prompted by the Turtle GUI.
 
--- **Enter the website URL when prompted by the Turtle GUI.Choose the type of data to extract (e.g., <h1>, <p>, <a>).
+-- **Enter the website URL when prompted by the Turtle GUI.Choose the type of data to extract (e.g., `<h1>`, `<p>`, `<a>`).
 
 -- **Enter the website URL when prompted by the Turtle GUI.View the results displayed on the Turtle canvas.
 
--- **Enter the website URL when prompted by the Turtle GUI.Save the extracted data by selecting an output format (.txt, .csv, or .json).
+-- **Enter the website URL when prompted by the Turtle GUI.Save the extracted data by selecting an output format (`.txt`, `.csv`, or `.json`).
 
 
 
